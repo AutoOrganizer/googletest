@@ -1,0 +1,5 @@
+{
+	"cmake.configureArgs": [
+		"-Dgtest_force_shared_crt=OFF"
+	]
+}
